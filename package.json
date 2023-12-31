@@ -15,5 +15,9 @@
     "nuxt": "^3.9.0",
     "vue": "^3.4.3",
     "vue-router": "^4.2.5"
+  },
+  "dependencies": {
+    "@nuxt/image-edge": "^1.1.0-28396365.97249ca",
+    "@vueuse/nuxt": "^10.7.1"
   }
 }
